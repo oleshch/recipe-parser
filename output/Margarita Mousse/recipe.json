@@ -1,0 +1,15 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Margarita Mousse",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2001/early-summer/200103022.jpg.thumb.1024.1024.jpg",
+   "description": "Try the zing of a Margarita, softened with cream and eggs, as a fashionable and delicious dessert for a special dinner.",
+   "recipeIngredient": [
+      "3 eggs, separated1 cup (250 mL) granulated sugar1/3 cup (75 mL) lime juice1/4 cup (50 mL) tequila1/4 cup (50 mL) orange flavoured liqueur such as triple sec or Cointreau1 tbsp (15 mL) gelatine2 tsp (10 mL) grated lime rind1 1/2 cups (375 mL) whipping creamGarnish:1/2 cup (125 mL) whipping cream"
+   ],
+   "recipeInstructions": [
+      "Place a large heavy metal bowl over a pot of gently simmering water, making sure the base does not touch the water. Add egg yolks, 3/4 cup (175 mL) sugar and lime juice to bowl. Whisk together with electric beaters. Continue to beat until mixture triples in volume and is thick enough to hold a ribbon (about six minutes). Remove from heat and beat until cool, about two minutes.2. Place tequila and triple sec in a small pot and sprinkle over gelatine. Stir together on low heat until liquid. Remove from heat and stir into mousse mixture along with lime rind.3. Whip whipping cream until soft peaks form. Fold into mousse mixture. Place in bowl in refrigerator and stir occasionally until mixture is just beginning to set, about 20 minutes.4. With an electric mixer beat egg whites together with the remaining 1/4 cup (50 mL) sugar until stiff peaks form when the beater is lifted from the mixture. Stir one quarter of egg whites into cream mixture to lighten it. Fold in remaining whites. Spoon into serving bowl.5. Chill for four hours or overnight. Whip cream and garnish top of mousse."
+   ],
+   "recipeCategory": "Dessert",
+   "url": "https://www.lcbo.com/en/recipe/margarita-mousse/200103022"
+}

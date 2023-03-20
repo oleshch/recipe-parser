@@ -1,0 +1,15 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Bloody Mary Salad",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2022/spring/F202202002.jpg.thumb.1024.1024.jpg",
+   "description": "We\u2019re a long way from tomato season, but small local hothouse tomatoes can be pretty darn good. Ripe cocktail tomatoes and cherry tomatoes in a variety of colours are heaps more flavourful than the larger ones and have none of their sometimes mealy texture. Plan ahead to allow the dressed tomatoes to rest for a bit\u2014time draws some of the juices from the tomatoes, which becomes part of the dressing. Tomatoes dressed in tomato juice!",
+   "recipeIngredient": [
+      "1 clove garlic, peeled and halved 1 lb (455 g) cocktail tomatoes 2 shallots, thinly sliced 1/4 cup (60 mL) extra virgin olive oil 2 tbsp (30 mL) lemon juice, plus extra as necessary 1 1/2 tsp (7 mL) red wine vinegar Salt and freshly ground black pepper 8 oz (225 g) cherry tomatoes, halved 4 stalks celery, thinly sliced Handful celery leaves, torn if large 1 ripe avocado 2 tbsp (30 mL) Worcestershire sauce Tabasco sauce to taste"
+   ],
+   "recipeInstructions": [
+      "Rub the cut surfaces of the garlic halves inside a large salad bowl. Discard the remnants.  2. Halve the cocktail tomatoes and, one by one, squeeze their seeds into the bowl. Drop the squished tomato halves into the bowl afterwards. Add the shallots, followed by the olive oil, lemon juice and vinegar. Season generously with salt and pepper, toss and let stand 30 minutes.  3. Add cherry tomatoes, celery and celery leaves to bowl. Pit and peel the avocado. Slice widthwise and sprinkle with a little lemon juice to keep slices green. Put those in the salad bowl, too, followed by the Worcestershire sauce and a dash of Tabasco. Gently toss with your hands to avoid crushing the avocado, taste and adjust Tabasco and salt to your liking."
+   ],
+   "recipeCategory": "Salad",
+   "url": "https://www.lcbo.com/en/recipe/bloody-mary-salad/F202202002"
+}

@@ -1,0 +1,15 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Smoky Salt Chocolate Brownie Bars",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2019/spring/F2019d2052.jpg.thumb.1024.1024.jpg",
+   "description": "Salt balances sweetness in baking, and this bar\u2014with its smoky salt topping and punch of ancho chili peppers\u2014is perfect for impressing people with your knowledge of flavour effects.",
+   "recipeIngredient": [
+      "8 oz (225 g) dark chocolate (64 to 70% cocoa), chopped1 cup (250 mL) unsalted butter, cubed1\u00bd cups (375 mL) granulated sugar4 eggs1 tsp (5 mL) vanilla extract1 cup (250 mL) all-purpose flour\u00bc cup (60 mL) cocoa powder1 tsp (5 mL) ancho chili powder2 tbsp (30 mL) smoked flaked salt (such as Maldon or other brands), divided"
+   ],
+   "recipeInstructions": [
+      "Preheat oven to 350\u00b0F (180\u00b0C). Grease an 8-inch (2-L) square cake pan and line bottom with parchment paper.2 Melt chocolate and butter in a heavy pot over low heat, stirring occasionally, about 8\u00a0minutes. Transfer chocolate mixture to a large bowl and set aside to cool for 5 minutes.3 Stir sugar into chocolate mixture. Stir in eggs one at a time until incorporated. Stir in vanilla.4 Sift together flour, cocoa and ancho powder. Add dry mixture and \u00bd tsp (2 mL) smoked salt into chocolate mixture until just combined.5 Pour into pan and smooth top.6 Bake for 27 to 30 minutes or until top is crackled and centre is still tender. You want the centre to be slightly gooey. Sprinkle with remaining smoked salt while hot. Cool in pan for 10 minutes then transfer to a rack to cool completely.7 Cut into bars with a sharp knife."
+   ],
+   "recipeCategory": "Dessert",
+   "url": "https://www.lcbo.com/en/recipe/smoky-salt-chocolate-brownie-bars/F2019d2052"
+}

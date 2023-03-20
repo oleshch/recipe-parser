@@ -1,0 +1,15 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Muhammara (Red Pepper Paste)",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2021/early-summer/F202103044.jpg.thumb.1024.1024.jpg",
+   "description": "Traditionally made with peppers, walnuts and spices, this vibrant dip comes in many forms throughout countries in the Levant. It is traditionally presented in a meze platter, but at Simit & Chai Co., muhammara is served as a spread for simit. Also, try complementing the pepper paste with sliced avocado or cucumber.",
+   "recipeIngredient": [
+      "1 red pepper 1 cup (250 mL) walnuts 5 tbsp (75 mL) dried bread crumbs 4 to 6 tbsp (60 to 90 mL) olive oil 2 tbsp (30 mL) pomegranate molasses 2 tsp (10 mL) red pepper flakes (preferably Aleppo pepper), plus more to taste 1 tsp (5 mL) lemon juice Salt to taste"
+   ],
+   "recipeInstructions": [
+      "Preheat oven to broil.  2. Place red pepper on a baking sheet on the upper rack of the oven. Char skin of pepper on all sides, rotating pepper every few minutes, about 10 minutes.  3. Place red pepper in a bowl and cover with plastic. Once cool enough to handle, remove and discard skin and seeds.  4. Reduce oven temperature to 350\u2011F (177\u2011C).  5. Place walnuts on a baking sheet and toast, shaking the pan halfway through, until golden brown and fragrant, about 5 minutes.  6. Add toasted walnuts, red pepper flesh, bread crumbs, 4 tbsp (60 mL) olive oil, pomegranate molasses, red pepper flakes and lemon juice to a blender. Pulse until smooth paste forms. Add more olive oil if necessary to achieve a paste-like consistency.  7. Season with salt. Add more pepper flakes if you prefer it spicier."
+   ],
+   "recipeCategory": "Entree",
+   "url": "https://www.lcbo.com/en/recipe/muhammara-red-pepper-paste/F202103044"
+}

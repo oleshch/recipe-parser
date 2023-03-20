@@ -1,0 +1,15 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Pan-Fried Gnocchi with Spinach",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2021/holiday/F202106065.jpg.thumb.1024.1024.jpg",
+   "description": "This is a quick side dish to pull together just before serving, and it makes a nice change from traditional potatoes or pasta. It works well with the Brown-Ale-Braised Lamb Shanks and with poultry, beef or fish.",
+   "recipeIngredient": [
+      "Salt to taste 2 tbsp (30 mL) olive oil 1 tbsp (15 mL) butter 2 cloves garlic, finely chopped 2 pkgs (each 350 g) gnocchi 1 pkg (142 g) baby spinach 1 tbsp (15 mL) freshly squeezed lemon juice Pepper to taste"
+   ],
+   "recipeInstructions": [
+      "Bring a large pot of water to a boil over high heat. Season liberally with salt.  2. Once water is at a full boil, combine oil, butter and garlic in a large skillet. Set pan over medium-low heat and gently heat until butter is melted and garlic is sizzling (do not let garlic brown).  3. In 2 batches, drop gnocchi into boiling water and cook for 2 to 3 minutes or just until they float to the surface. Use a sieve to scoop gnocchi out of water; shake off excess water and add directly to skillet with garlic.  4. Increase heat to medium-high and cook, shaking pan and lifting and turning gnocchi with a large spatula, for about 5 minutes or until gnocchi are slightly crispy and browned. Transfer to a large warmed serving bowl.  5. Add spinach and lemon juice to skillet. Stir for about 1 minute, just until wilted. Add to gnocchi, season with salt and pepper to taste and toss to combine."
+   ],
+   "recipeCategory": "Entree",
+   "url": "https://www.lcbo.com/en/recipe/pan-fried-gnocchi-with-spinach/F202106065"
+}

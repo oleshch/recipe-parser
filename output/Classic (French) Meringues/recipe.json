@@ -1,0 +1,19 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Classic (French) Meringues",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2019/spring/F201902030.jpg.thumb.1024.1024.jpg",
+   "description": "These are basic meringues, easy to make and always wonderful to eat. The centre is slightly marshmallow-like and the outside is crisp. Make individually or as one 9-inch (23-cm) circle. They keep in an airtight container for a few days. To make a pavlova use the same ingredients but beat in 2 tsp (10 mL) cornstarch with the vinegar. This makes a meringue that\u2019s softer inside.\u00a0",
+   "recipeIngredient": [
+      "4 egg whites\u00bd tsp (2 mL) salt1 cup (250 mL) sugar1 tbsp (15 mL) white vinegar or lemon juice"
+   ],
+   "recipeInstructions": [
+      "Preheat oven to 275\u00b0F (140\u00b0C).",
+      "Beat egg whites with salt on medium speed until foamy, about 1 minute with an electric mixer, and slowly beat in sugar.",
+      "Increase speed to high and continue to beat until egg whites are sti\u0161 and glossy, about 5 to 8 minutes, depending on your beaters. When you lift the beaters, the whites should form sti\u0161 points that do not fall away. Beat in vinegar.",
+      "Draw a circle on parchment paper the size you want your meringue, 8 or 9 inches (20 cm to 23 cm). Spoon mixture into the circle and spread lightly with a knife or spatula. To make individual meringues, use a large oval spoon and scoop out onto parchment paper. This mixture will make about 8.",
+      "Bake for 1 hour then turn off the oven and let meringues cool in the oven. They will be slightly golden and crisp.\u00a0"
+   ],
+   "recipeCategory": "Dessert",
+   "url": "https://www.lcbo.com/en/recipe/classic-french-meringues/F201902030"
+}

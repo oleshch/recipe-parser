@@ -1,0 +1,15 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Turkish-Style Green Beans",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2021/autumn/F202105034.jpg.thumb.1024.1024.jpg",
+   "description": "An easy make-ahead recipe, these beans are good right off the stove but even better after they sit for a few hours. They\u2019re great with rice and grilled fish.",
+   "recipeIngredient": [
+      "1 large onion, sliced 1/2 inch (1 cm) thick 1 lb (455 g) green beans, trimmed 1 medium lemon, divided 1 large tomato, sliced 1/2 inch (1 cm) thick 1/4 cup (60 mL) olive oil 1/2 tsp (2 mL) salt 1/2 cup (125 mL) crumbled feta (optional) 1/2 cup (125 mL) roughly chopped dill (optional)"
+   ],
+   "recipeInstructions": [
+      "Place the onion at the bottom of a\u00ad heavy saucepan with a well-fitting lid. Layer the green beans on top of the onion. Slice 1/2 of the lemon into 3 or 4 rounds and layer on top of beans. Top with a \u00adlayer of tomato slices and olive oil.  2. Season with salt and place a piece of parchment paper slightly larger than the pot directly onto the tomato slices.  3. Cover and cook on medium heat for 10 minutes, then reduce heat to low and cook until the beans are tender, 30\u00ad to 60 minutes, depending on the type and age of the beans. Let cool, squeeze juice from remaining lemon half on top. Mix well.  4. Serve immediately or transfer to a covered container and refrigerate for up to 1 week.  5. Let come to room temperature before serving. Garnish with feta and dill, if desired."
+   ],
+   "recipeCategory": "Salad",
+   "url": "https://www.lcbo.com/en/recipe/turkish-style-green-beans/F202105034"
+}

@@ -1,0 +1,18 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Potato and Corn Salad with Roasted Peppers & Chorizo Vinaigrette",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2020/early-summer/F202003003.jpg.thumb.1024.1024.jpg",
+   "description": "This hearty salad is quick and easy to make and uses ingredients that you likely already have in the kitchen. Feel free to substitute the chorizo with an Italian hot sausage or some chopped, cooked bacon.",
+   "recipeIngredient": [
+      "2 lbs (905 g) mini red potatoes1 raw chorizo sausage, about 10 oz (285 g), casing removed1 tbsp (15 mL) Dijon mustard2 tsp (10 mL) white wine vinegar\u00bc cup (60 mL) olive oil\u00bd tsp (2 mL) salt or to taste1 cup (250 mL) frozen corn, thawed\u00bd cup (125 mL) roasted \u00a0peppers, diced\u00bd cup (125 mL) scallions, finely sliced1 tbsp (15 mL) fresh dill, coarsely chopped"
+   ],
+   "recipeInstructions": [
+      "1\u00a0In a large pot of boiling salted water, cook potatoes until tender. Drain and let cool.",
+      "Heat a medium frying pan over medium-high heat and break sausage into olive-sized pieces into the Cook until well browned and cooked through, about 10 minutes with occasional stirring. Once cooked, drain off excess fat and let cool slightly in pan.",
+      "In a large bowl, whisk together mustard, vinegar, olive oil and Add corn, peppers, scallions, dill and sausage to the bowl.",
+      "Slice potatoes in half, or quarters for larger ones; add to Stir well and adjust seasoning if necessary."
+   ],
+   "recipeCategory": "Salad",
+   "url": "https://www.lcbo.com/en/recipe/potato-and-corn-salad-with-roasted-peppers-chorizo-vinaigrette/F202003003"
+}

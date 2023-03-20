@@ -1,0 +1,19 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Chocolate Meringue Cookies",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2019/spring/F201902029.jpg.thumb.1024.1024.jpg",
+   "description": "Make the classic mixture and pipe out small meringues. Melt chocolate and dip meringues into melted chocolate.",
+   "recipeIngredient": [
+      "4 egg whites\u00bd tsp (2 mL) salt1 cup (250 mL) sugar1 tbsp (15 mL) white vinegar or lemon juice"
+   ],
+   "recipeInstructions": [
+      "Preheat oven to 275\u00b0F (140\u00b0C).",
+      "Beat egg whites with salt on medium speed until foamy, about 1 minute with an electric mixer, and slowly beat in sugar.",
+      "Increase speed to high and continue to beat until egg whites are sti\u0161 and glossy, about 5 to 8 minutes, depending on your beaters. When you lift the beaters, the whites should form sti\u0161 points that do not fall away. Beat in vinegar.",
+      "Draw a circle on parchment paper the size you want your meringue, 8 or 9 inches (20 cm to 23 cm). Spoon mixture into the circle and spread lightly with a knife or spatula. To make individual meringues, use a large oval spoon and scoop out onto parchment paper. This mixture will make about 8.",
+      "Bake for 1 hour then turn off the oven and let meringues cool in the oven. They will be slightly golden and crisp.\u00a0"
+   ],
+   "recipeCategory": "Dessert",
+   "url": "https://www.lcbo.com/en/recipe/chocolate-meringue-cookies/F201902029"
+}

@@ -1,0 +1,15 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Celery & Tarragon Soup",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2021/autumn/F202105003.jpg.thumb.1024.1024.jpg",
+   "description": "We kept this simple Italian-inspired soup on the light side so you can comfortably serve it before a multi-course meal, but don\u2019t skip the topping! The dates may seem a bit strange until you realize it\u2019s essentially a grown-up version of ants on a log.",
+   "recipeIngredient": [
+      "1 2/3 cup (80 mL) olive oil 12 stalks celery, cut into 1/2-inch (1-cm) pieces, about 7 cups (1.75 L) 3 leeks, white and pale green parts only, chopped, about 3 cups (750 mL) 8 garlic cloves, chopped \u00ad1/2 tsp (2 mL) kosher salt 1 large yellow-flesh potato, peeled and cut into 1/2-inch (1-cm) pieces, about 2 cups (500 mL) 3-inch (8-cm) Parmesan rind 6 cups (1.5 L) vegetable broth 1 cup (250 mL) packed parsley leaves, chopped 1/4 cup (60 mL) tarragon leaves, chopped  ALMOND & DATE TOPPING \u00ad1/3 cup (80 mL) olive oil 1/3 cup (80 mL) toasted and finely chopped almonds 1/4 cup (60 mL) grated Parmesan 2 Medjool dates, pitted and finely chopped Celery leaves for garnish"
+   ],
+   "recipeInstructions": [
+      "Heat a Dutch oven over medium-high heat. Add oil, then celery, leeks, garlic and salt. Cook, stirring occasionally until vegetables have softened and leeks are translucent, about 15 minutes.  2. Stir in potato, Parmesan rind and vegetable broth. Bring to a boil, then lower to a simmer. Continue cooking until the potato is very soft, about 15 minutes. Stir in parsley and tarragon, then remove from heat.  3. Meanwhile, to make the topping, combine oil, almonds, Parmesan and dates in a small bowl.  4. Working in batches, transfer soup to a blender and pur\u00e9e until smooth. Return to pot. Warm over medium heat, about 2 minutes. To serve, scatter with topping and garnish with celery leaves."
+   ],
+   "recipeCategory": "Soup",
+   "url": "https://www.lcbo.com/en/recipe/celery-tarragon-soup/F202105003"
+}

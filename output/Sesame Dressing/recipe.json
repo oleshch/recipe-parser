@@ -1,0 +1,15 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Sesame Dressing",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2020/spring/F202002019.jpg.thumb.1024.1024.jpg",
+   "description": "You will find so many uses for this delicious dressing. Thin it out with a little water to get it to the consistency you need.\u00a0",
+   "recipeIngredient": [
+      "3 tbsp (45 mL) Chinese sesame paste or tahini 1 tbsp (15 mL) white miso paste2 tbsp (30 mL) light soy sauce 1 tbsp (15 mL) sesame oil1 tbsp (15 mL) unseasoned rice vinegar 2 tsp (10 mL) packed brown sugar2 tsp (10 mL) grated ginger1 tsp (5 mL) grated garlic \u00bd tsp (2 mL) Sriracha"
+   ],
+   "recipeInstructions": [
+      "1\u00a0Combine sesame paste and miso in a medium bowl and whisk until uniform. Whisk in soy sauce, sesame oil, vinegar, brown sugar, ginger, garlic and Sriracha. Thin with water as needed."
+   ],
+   "recipeCategory": "Dressing",
+   "url": "https://www.lcbo.com/en/recipe/sesame-dressing/F202002019"
+}

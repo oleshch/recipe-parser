@@ -1,0 +1,31 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Buttery Hasselback Beets with Saut\u00e9ed Greens & Grilled Steak with Blue Cheese",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2020/autumn/F202005019.jpg.thumb.1024.1024.jpg",
+   "description": "Riff on a classic steak dinner with beets by using them and their leafy tops in place of the classic potato and wilted spinach sides. Just like with potatoes, hasselback-style beets cook up a bit more quickly, getting nicely coated in butter, and they make for a pretty dish. The greens are saut\u00e9ed with tender leeks and finished with arugula and toasty pine nuts. And the blue cheese is for the steak, but its rich, savoury flavour really goes with everything on the plate.",
+   "recipeIngredient": [
+      "2 lbs (905 kg) bavette (skirt) steak or 4 rib-eye steaks, at least 1 inch (2.5 cm) thick",
+      "2 to 3 tsp (10 to 15 mL) olive oil",
+      "1 tsp (5 mL) each kosher salt and coarsely cracked black peppercorns, plus more for beets",
+      "4 large or 8 medium-size beets with greens attached, about 2 bunches",
+      "2 leeks, white part only, cut in half and rinsed",
+      "\u00bc cup (60 mL) pine nuts",
+      "2 tbsp (30 mL) butter, divided",
+      "4 fresh thyme sprigs (optional)",
+      "2 cups (500 mL) lightly packed baby arugula",
+      "3 oz (85 g) creamy blue cheese, such as Saint Agur or Gorgonzola"
+   ],
+   "recipeInstructions": [
+      "Remove meat from fridge. Using a sharp knife, cut membrane from skirt steak, if still attached. Pat beef dry with paper towels. Rub steaks with oil, salt and pepper. Bring to room temperature. This will take 1 to 2 hours.",
+      "Meanwhile, separate beets and tops. Wash and scrub all. Thickly slice greens and refrigerate until ready to use. Thinly slice leeks.",
+      "Toast pine nuts in a frying pan set over medium heat until lightly golden, 4 to 5 minutes. Turn pine nuts on to a plate and set aside. Melt 1 tbsp (15 mL) butter in a large frying pan set over medium-high heat. When bubbling, add leeks. Cook, stirring often until softened, 7 to 8 minutes. Remove from heat and set aside in pan until just before serving.",
+      "Peel beets. Thinly slice each raw beet, working carefully and making sure not to slice straight through to the bottom, so leaving the base intact. If you accidentally slice all the way through here and there; don\u2019t stress, the foil will hold the pieces together. Set 1 large or 2 small beets on a square of foil. Repeat with remaining beets and more foil. Cut 1 tbsp (15 mL) butter into small cubes. Scatter butter over beets and sprinkle with salt and pepper. Top with a thyme sprig. Wrap each beet with the foil they\u2019ve been set on.",
+      "Preheat barbecue to medium-high.",
+      "Place beets on one side of grill. Barbecue beets until fork-tender, about 30 minutes. Carefully poke beets through the foil with a fork. When beets are almost tender, turn off one side of grill. Move beets to that side. Increase other side of grill to high. When really hot, barbecue steaks until done as you like. If using skirt steak, sear for about 2 to 3 minutes per side for medium-rare. If using rib-eye, grill for about 4 minutes per side for medium-rare, depending on the thickness of the steak.",
+      "When done, remove beets to plates and steak to a platter. Loosely cover with foil. Let steak rest for 10 minutes while you saut\u00e9 the greens. Set pan with saut\u00e9ed leeks over medium-high. When warm, slowly begin to add prepared beet greens. Cook, stirring occasionally until wilted, 2 to 4 minutes. When done, stir in arugula and remove from heat.",
+      "If using skirt steak, thinly slice against the grain. Divide steaks between plates. Crumble blue cheese overtop. Divide greens and foil packets between plates. Sprinkle greens with pine nuts. Serve immediately."
+   ],
+   "recipeCategory": "Entree",
+   "url": "https://www.lcbo.com/en/recipe/buttery-hasselback-beets-with-sauteed-greens-grilled-steak-with-blue-cheese/F202005019"
+}

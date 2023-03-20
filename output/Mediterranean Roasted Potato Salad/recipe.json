@@ -1,0 +1,18 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Mediterranean Roasted Potato Salad",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2001/summer/200104004.jpg.thumb.1024.1024.jpg",
+   "description": "This outstanding and easy salad should be served as a light dinner dish or as part of a summer buffet. Lettuces such as Oak leaf, Bibb, Boston or mixed soft lettuce are best for this salad.",
+   "recipeIngredient": [
+      "1 lb (500 g) small red-skinned potatoes, cut in half2 tbsp (25 mL) olive oilSalt and freshly ground pepper1 cup (250 mL) Herbal Dressing (see below)8 oz (240 g) green beans, trimmed and cut in half1/2 cup (125 mL) yellow cherry tomatoes1/2 cup (125 mL) red cherry tomatoes1 cup (250 mL) chopped red onion1/4 cup (50 mL) pitted chopped black olivesOak leaf lettuce"
+   ],
+   "recipeInstructions": [
+      "Preheat oven to 400\u00b0F (200\u00b0C). Toss potatoes with olive oil, salt and pepper. Roast for 25 to 40 minutes (depending on size) or until tender. With a slotted spoon remove from roasting pan and place in bowl. Toss with half of herbal dressing.",
+      "Bring a pot of salted water to boil and add green beans. Boil for 4 minutes or until crisp-tender. Refresh with cold water until cool. Add to potatoes.",
+      "Slice cherry tomatoes in half and add to potatoes. Stir in red onion and olives. Season well with salt and pepper.",
+      "Toss with remaining dressing. Line a platter with lettuce. Place salad on top."
+   ],
+   "recipeCategory": "Salad",
+   "url": "https://www.lcbo.com/en/recipe/mediterranean-roasted-potato-salad/200104004"
+}

@@ -1,0 +1,16 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Oaxacan Hot Chocolate",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2019/holiday/F201906061.jpg.thumb.1024.1024.jpg",
+   "description": "A cross between a nightcap and dessert, this dark, rich, orangescented hot chocolate gets a smoky kick from mezcal. If you don\u2019t have any mezcal in your liquor cabinet, an aged rum or brandy would also work nicely.",
+   "recipeIngredient": [
+      "2 cups (500 mL) whole milk5 oz (140 g) bittersweet (70%)\u00a0chocolate, chopped into \u00bd-inch\u00a0(1-cm) pieces2 tbsp (30 mL) cocoa powder1 tbsp (15 mL) agave syrup1 tbsp (15 mL) finely grated\u00a0orange zest1 tsp (5 mL) finely grated ginger\u215b tsp (0.5 mL) chipotle chili\u00a0powderLarge pinch fine sea salt6 tbsp (90 mL) mezcal6 small cookies to garnish"
+   ],
+   "recipeInstructions": [
+      "In a medium saucepan, heat milk over medium heat just until hot. (Do not let it come to a simmer.) Remove from heat and whisk in chocolate until smooth. Whisk in cocoa powder, agave, orange zest, ginger, chipotle and salt. Return to medium heat and whisk gently and constantly until mixture thickens to the consistency of cr\u00e8me anglaise. Remove from heat and fine-strain into a clean saucepan, discarding solids.",
+      "Whisk in mezcal and place over medium-low heat. Stir occasionally until hot. Transfer to a warmed, heatproof pitcher. Pour into warmed espresso cups and garnish each drink with a cookie. Serve immediately."
+   ],
+   "recipeCategory": "Dessert",
+   "url": "https://www.lcbo.com/en/recipe/oaxacan-hot-chocolate/F201906061"
+}

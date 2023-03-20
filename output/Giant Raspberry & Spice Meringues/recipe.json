@@ -1,0 +1,15 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Giant Raspberry & Spice Meringues",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2021/holiday/F202106081.jpg.thumb.1024.1024.jpg",
+   "description": "If you\u2019ve eaten cereal or granola containing freeze-dried fruit, you know those little pieces taste like fruit squared. While I\u2019m not down with eating raspberries in the dead of winter, freeze-dried fruit is another matter. Look for them at health food shops or better grocers. If \u00adyou don\u2019t have a spice grinder, a plastic sandwich bag and rolling pin can be used to smash the raspberries to a powder.",
+   "recipeIngredient": [
+      "1/3 cup (80 mL) freeze-dried raspberries 6 large egg whites, room temperature Pinch salt 1 1/2 cups (375 mL) sugar 1 tbsp (15 mL) white vinegar 2 tsp (10 mL) cornstarch 1 1/2 tsp (7 mL) vanilla extract 1/4 tsp (1 mL) cinnamon Pinch ground star anise (optional)"
+   ],
+   "recipeInstructions": [
+      "Working in batches, grind raspberries to a \u00adpowder using a spice grinder. Set aside.  2. Preheat oven to 250\u00b0F (121\u00b0C). Line 2 baking sheets with parchment paper.  3. Using an electric mixer (or preferably a stand mixer fitted with the whisk attachment), beat egg whites and salt to soft peaks. With the motor running, add sugar in several additions and continue to beat until sugar is dissolved and whites are stiff and glossy. Add vinegar, cornstarch, vanilla, cinnamon and star anise, if \u00adusing. Beat until just combined.  4. Using a large spoon, dollop roughly 1 cup (250 mL) of meringue onto a prepared baking sheet. Use the spoon to create swoops and peaks; repeat with the remaining meringue to create a total of 12 equally spaced mounds. Sprinkle each with raspberry powder.  5. Arrange pans on the upper and lower racks of the oven. Bake for 1 1/2 hours, rotating pans halfway through until exteriors are crisp and interiors are softy and sticky. Let cool. Finished meringues may be stored at room temperature, uncovered, for 3 days."
+   ],
+   "recipeCategory": "Dessert",
+   "url": "https://www.lcbo.com/en/recipe/giant-raspberry-spice-meringues/F202106081"
+}

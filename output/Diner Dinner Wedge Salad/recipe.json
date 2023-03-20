@@ -1,0 +1,17 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Diner Dinner Wedge Salad",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2019/spring/F201902005.jpg.thumb.1024.1024.jpg",
+   "description": "Go full retro with creamy, zesty and pink (of course!) Thousand Island Dressing and a load of toppings on a crispy iceberg wedge. This version of the diner classic dressing is on the tangy side, which balances the rich toppings of bacon, egg and butter -toasted bread crumbs just right. And this is not the time to skimp on the dressing! A dense wedge of iceberg needs a good douse of dressing so use the whole batch for 4 servings. Add chicken or ham for a heartier main-course salad.\u00a0",
+   "recipeIngredient": [
+      "1 tbsp (15 mL) butter\u00bd cup (125 mL) coarse fresh bread crumbs1 head iceberg lettuceThousand Island Dressing (recipe below)4 radishes, thinly sliced\u00bc English cucumber, diced1 cup (250 mL) grape tomatoes, sliced4 slices bacon, crisply cooked and chopped2 hard-boiled eggs, diced1 cup (250 mL) diced cooked chicken or ham (optional)"
+   ],
+   "recipeInstructions": [
+      "Melt butter in a small skillet over medium heat. Add bread crumbs and toast, stirring often, for about 5 minutes or until crumbs are golden and crisp. Transfer to a bowl and let cool.\u00a0",
+      "Trim stem from lettuce and peel off loose outer leaves. Cut head vertically into quarters. Trim out the tough core, if desired, leaving a thin portion to keep the wedge intact (if the core isn\u2019t large you can leave it in). Arrange lettuce wedges with the rounded side down on serving plates.\u00a0",
+      "Pour one-quarter of the dressing over each lettuce wedge. Scatter radishes, cucumber, tomatoes, bacon, eggs and chicken (if using) over top. Sprinkle with toasted bread crumbs and serve immediately.\u00a0"
+   ],
+   "recipeCategory": "Salad",
+   "url": "https://www.lcbo.com/en/recipe/diner-dinner-wedge-salad/F201902005"
+}

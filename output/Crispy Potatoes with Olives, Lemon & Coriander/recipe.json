@@ -1,0 +1,26 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Crispy Potatoes with Olives, Lemon & Coriander",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2022/holiday/F202206022.jpg.thumb.1024.1024.jpg",
+   "description": "This quick Cypriot dish brings punchy flavours to roast potatoes: garlic, olives and cracked coriander seeds, which lend a citrusy note. A splash of lemon juice and its zest brighten the dish and cut through the starch.",
+   "recipeIngredient": [
+      "3 lbs (1.36 kg) mini yellow potatoes",
+      "2 tbsp (30 mL) whole coriander seeds",
+      "1/4 cup (60 mL) light olive oil",
+      "10 cloves garlic, flattened with side of knife, peeled",
+      "1 cup (250 mL) pitted large green olives, halved",
+      "1 lemon, zest removed in wide strips",
+      "1/4 cup (60 mL) fresh lemon juice",
+      "Maldon salt or other flaky sea salt to taste"
+   ],
+   "recipeInstructions": [
+      "In a large pot, add potatoes and enough water to cover. Bring to a boil. Reduce heat to simmer. Cook until potatoes are fork-tender, 6 to 7 minutes. Drain and transfer to a baking sheet. When potatoes are cool enough to handle, cut in half lengthwise.",
+      "Place coriander in mortar and press with pestle to crack. You can also place it between two pieces of parchment and press down with bottom of heavy skillet.",
+      "In a large saut\u00e9 pan, heat oil over medium heat. Add garlic. Cook until soft and translucent, 3 to 4 minutes. Transfer garlic with a slotted spoon to a small plate. Set aside.",
+      "Add potatoes to hot oil. Cook, turning occasionally, 5 minutes. Add cracked coriander, garlic, olives and lemon zest. Cook, stirring occasionally, until potatoes are crisp and golden, about 5 minutes more.",
+      "Remove from heat and stir in lemon juice and salt."
+   ],
+   "recipeCategory": "Entree",
+   "url": "https://www.lcbo.com/en/recipe/crispy-potatoes-with-olives-lemon-coriander/F202206022"
+}

@@ -1,0 +1,19 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Swiss Meringues",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2019/spring/F201902034.jpg.thumb.1024.1024.jpg",
+   "description": "For this meringue, you heat the egg whites and sugar together and then beat. It is very stable, making it excellent for pie toppings (it does not weep) and as a major component of buttercream.\u00a0",
+   "recipeIngredient": [
+      "4 egg whites1 cup (250 mL) granulated sugar\u00bc tsp (1 mL) cream of tartar\u00bd tsp (2 mL) salt"
+   ],
+   "recipeInstructions": [
+      "Add water to a medium pot and bring to boil. Reduce heat to low. In a wide metal bowl, add the egg whites, sugar, cream of tartar and salt. Place the bowl of egg white mixture over the pot (make sure the base does not touch the water). Whisk until just warm to the touch, about 3 to 5 minutes, and the sugar does not feel grainy. (Test with your fingers.)",
+      "Remove immediately and continue to beat with electric beaters until very thick and glossy, about 3 to 5 minutes. The meringues should form sti\u0161 peaks.\u00a0",
+      "HOW TO USE Preheat oven to 200\u00b0F (100\u00b0C). Fill a pastry bag with the mixture (use fancy tubes if you have them). The size of the tip will indicate the number of meringues you can make. Pipe meringue cookies onto parchment paper. Bake for 1\u00bd hours or until crisp and the parchment paper peels o\u0161 easily. Makes 30 to 60 meringues depending on size.",
+      "For a pie topping, spread over lemon or other flavoured tart and bake for 10 minutes at 350\u00b0F (180\u00b0C) or until slightly golden on top.",
+      "To make the buttercream, beat together all the meringue mixture with \u00be lb (340 g) soft unsalted butter, cut in cubes. Continue to beat until the mixture is smooth and there are no air bubbles. Tint and flavour as required. Use to frost cakes.\u00a0"
+   ],
+   "recipeCategory": "Dessert",
+   "url": "https://www.lcbo.com/en/recipe/swiss-meringues/F201902034"
+}

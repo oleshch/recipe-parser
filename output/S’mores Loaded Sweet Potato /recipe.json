@@ -1,0 +1,26 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "S\u2019mores Loaded Sweet Potato ",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2022/summer/F202204046.jpg.thumb.1024.1024.jpg",
+   "description": "The flesh of sweet potatoes transforms into sweet, dense, caramel pudding when cooked whole over a campfire. It makes a tasty vessel to hold all the fixings for a s\u2019more. It\u2019s reminiscent of the flavours of sweet potato pie, but with graham crackers swapped out for gingersnaps along with a sprinkle of cinnamon sugar.",
+   "recipeIngredient": [
+      "4 sweet potatoes, each about 9 oz (255 g)",
+      "1 tsp (5 mL) cinnamon",
+      "2 tbsp (30 mL) granulated sugar",
+      "12 large marshmallows",
+      "1 bar (100 g) white chocolate, broken into 12 equal pieces",
+      "8 gingersnap cookies, like Ny\u00e5kers, coarsely crushed, about 240 g"
+   ],
+   "recipeInstructions": [
+      "Build a campfire. If using a barbecue, heat to 400\u00b0F (204\u00b0C).",
+      "Wrap each sweet potato in two layers of foil.",
+      "When fire is reduced to hot coals, place sweet potatoes in the coals and let cook until very tender, about 1 hour, rotating every 20 minutes. Have a small fire going beside the coals so that when the coals lose their heat, they can be replaced. If using a barbecue, turn off one side of grill and place sweet potatoes over indirect heat for 1 hour.",
+      "In a small bowl, mix the cinnamon and sugar.",
+      "When potatoes are nearly cooked, roast marshmallows on the end of a stick above the coals until golden brown, about 1 minute.",
+      "Unwrap the sweet potatoes from the foil. Split each one in half lengthwise. Divide the marshmallows and white chocolate pieces among the split potatoes then sprinkle with cinnamon sugar. Fold the potatoes up to let the heat melt the chocolate, about 15 seconds.",
+      "Open up, sprinkle with coarsely crushed gingersnap cookies and serve."
+   ],
+   "recipeCategory": "Dessert",
+   "url": "https://www.lcbo.com/en/recipe/s-mores-loaded-sweet-potato/F202204046"
+}

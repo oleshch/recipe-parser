@@ -1,0 +1,32 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Peppered Wreath Cookies",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2022/holiday/F202206056.jpg.thumb.1024.1024.jpg",
+   "description": "Black pepper is used in holiday baking a lot more than you might think. Combined with cinnamon and cloves, it adds warmth and familiarity with all the seasonal feels. For the best possible flavour, use only freshly ground pepper straight from the mill.",
+   "recipeIngredient": [
+      "2 3/4 cups (675 mL) all-purpose flour, plus extra for dusting",
+      "1/2 tsp (2 mL) freshly ground black pepper",
+      "1/2 tsp (2 mL) fine sea salt",
+      "1/2 tsp (2 mL) cinnamon",
+      "1/4 tsp (1 mL) ground cloves",
+      "1 cup (250 mL) unsalted butter, at room temperature",
+      "1/2 cup (125 mL) granulated sugar",
+      "1/4 cup (60 mL) light brown sugar, lightly packed",
+      "1 large egg",
+      "1/2 tsp (2 mL) pure vanilla extract",
+      "2 cups (500 mL) icing sugar",
+      "3 tbsp (45 mL) whole milk",
+      "White nonpareils or sprinkles (optional)"
+   ],
+   "recipeInstructions": [
+      "Combine flour with pepper, salt and spices in a small bowl. Set aside.",
+      "In the bowl of a stand mixer fitted with paddle attachment, beat butter and sugars on medium speed until smooth, 1 minute. Stop and scrape down sides of bowl. With machine on medium-low, add egg and vanilla, and mix until almost combined. Gradually add flour mixture and mix until dough comes together. Divide dough in half and shape into discs. Wrap in plastic and refrigerate 1 hour.",
+      "Arrange racks in top and bottom thirds of oven. Preheat to 350\u00b0F (177\u00b0C). Line two baking sheets with parchment.",
+      "Lightly flour work surface. Working with one disc at a time, roll out dough to 1/4 inch (5 mm) thick. Using a 2 3/4-inch (7-cm) scalloped-edge cutter, cut into rounds. Using a 1 1/2-inch (4-cm) scalloped-edge cutter, cut out centres of each round. Arrange on prepared baking sheets, 1 inch (2.5 cm) apart. Refrigerate 20 minutes. Gather and re-roll scraps then cut out more wreaths, repeating until dough is used up.",
+      "Bake in the top and bottom thirds of oven, switching sheets halfway through, until cookies have set, 14 to 16 minutes. Let cool on baking sheets 5 minutes then transfer to a rack and cool completely.",
+      "Whisk icing sugar and milk in a small bowl until smooth. Using an offset spatula, spread evenly over cookies, pushing to edges. Transfer to rack and immediately sprinkle with nonpareils, if using. Let stand until dry to the touch, at least 20 minutes. (Cookies will keep at room temperature in an airtight container up to 5 days.)"
+   ],
+   "recipeCategory": "",
+   "url": "https://www.lcbo.com/en/recipe/peppered-wreath-cookies/F202206056"
+}

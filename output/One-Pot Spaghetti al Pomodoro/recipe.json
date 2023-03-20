@@ -1,0 +1,16 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "One-Pot Spaghetti al Pomodoro",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2020/autumn/F202005018.jpg.thumb.1024.1024.jpg",
+   "description": "Cooking dried pasta right in the pot with the sauce is an Italian technique embraced by North American cooks who are obsessed with one-pan tricks. The starch released by the spaghetti creates a rich, silky consistency similar to that of risotto.",
+   "recipeIngredient": [
+      "3 tbsp (45 mL) extra virgin olive oil4 cloves garlic, thinly sliced1 lb (455 g) very ripe tomatoes, cut into chunks2 sprigs basil, leaves removed, plus more leaves for garnish1\u00bd tsp (7 mL) fine sea salt, plus more to tasteFreshly ground pepper to taste4\u00bd cups (1.125 L) water1 lb (455 g) dried spaghetti, preferably Italian\u00bd cup (125 mL) finely gratedParmigiano-Reggiano, plus more for serving2 tbsp (30 mL) unsalted butter, cold, diced"
+   ],
+   "recipeInstructions": [
+      "In a large, heavy-duty stainless steel pot, heat oil and garlic over medium heat. When garlic starts to sizzle, cook until soft, but not brown, about 2 minutes. Stir in tomatoes to coat in oil then add basil leaves, salt, pepper and water. Raise heat to high. When it comes to a boil, break spaghetti in half and add to pot. When it returns to a boil, reduce heat a notch so it boils steadily but not violently. Cook and stir with tongs occasionally at beginning, then constantly near end, until pasta is al dente and liquid has been reduced to a sauce, about 10 minutes.",
+      "Remove pot from heat. Gradually stir in Parmigiano followed by butter. Taste for salt. Divide among 4 warmed, shallow bowls and garnish with more cheese and basil leaves."
+   ],
+   "recipeCategory": "Entree",
+   "url": "https://www.lcbo.com/en/recipe/one-pot-spaghetti-al-pomodoro/F202005018"
+}

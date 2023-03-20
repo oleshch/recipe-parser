@@ -1,0 +1,17 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Red Wine Risotto with Beef",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2001/autumn/200105026.jpg.thumb.1024.1024.jpg",
+   "description": "This fabulous risotto can be served with a salad to make a great meal.",
+   "recipeIngredient": [
+      "5 cups (1.25 L) beef braising liquid (recipe follows)2 tbsp (25 mL) olive oil2 tbsp (25 mL) butter 1/2 cup (125 mL) finely chopped onion1 1/2 cups (375 mL) Carnaroli rice 1/2 cup (125 mL) red wine2 cups (500 mL) diced beef1/3 cup (75 mL) Parmesan cheese 2 tbsp (25 mL) chopped Italian parsleySalt and freshly ground pepper"
+   ],
+   "recipeInstructions": [
+      "Bring braising liquid to simmer on stove. Heat oil and 1 tbsp (15 mL) butter in a heavy pot on medium heat. Add onions and saut\u00e9 for 3 minutes or until softened. Add rice and saut\u00e9 until rice is coated with oil.",
+      "Pour in wine and cook gently until wine is absorbed. Add 1 cup (250 mL) stock, stirring until most of stock is absorbed. Continue to add stock in 1 cup (250 mL) quantities, stirring most of the time until rice is creamy with a slight bite in the centre, about 18 to 20 minutes. Stir in chopped meat for the last 5 minutes of cooking.",
+      "Remove from heat. Stir in remaining butter, Parmesan cheese and parsley. Season well with salt and pepper. Serve immediately."
+   ],
+   "recipeCategory": "Entree",
+   "url": "https://www.lcbo.com/en/recipe/red-wine-risotto-with-beef/200105026"
+}

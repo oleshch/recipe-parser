@@ -1,0 +1,43 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Peanut-Lime Beef Satay on Kale-Cabbage Salad",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2022/early-summer/F202203010.jpg.thumb.1024.1024.jpg",
+   "description": "Layered with a crispy slaw-like salad and veggies, creamy double-duty peanut dressing and marinade, tender grilled beef satay and a salted candy-brittle topper, this hearty dish is sure to satisfy. If you\u2019re short on prep time or not keen on making the Salty Peanut Sesame Snaps (though they are irresistible once you try them!), top the salad with broken shrimp chips or salted sesame sticks instead.\u00a0",
+   "recipeIngredient": [
+      "1 lb (455 g) beef top sirloin steak or other grilling steak",
+      "MARINADE & DRESSING",
+      "1/2 cup (125 mL) smooth peanut butter",
+      "1 tbsp (15 mL) grated lime zest",
+      "6 tbsp (90 mL) fresh lime juice, divided (about 3 limes)",
+      "1/3 cup (80 mL) vegetable oil",
+      "1 tsp (5 mL) sriracha or other hot pepper sauce (approx.)",
+      "1 clove garlic, minced",
+      "2 tbsp (30 mL) rice vinegar",
+      "1 tbsp (15 mL) liquid honey",
+      "Salt",
+      "SALAD",
+      "12 bamboo skewers, at least",
+      "8 inches (20 cm) long",
+      "4 cups (1 L) chopped trimmed kale",
+      "4 cups (1 L) coarsely shredded",
+      "Napa or Savoy cabbage",
+      "1 large carrot, julienned",
+      "1 cup (250 mL) sliced trimmed snow peas",
+      "Salty Peanut Sesame Snaps (recipe follows)"
+   ],
+   "recipeInstructions": [
+      "Cut beef across the grain into 1/2 inch\u2013 (1 cm\u2013) thick strips. Place in a shallow dish; set aside.",
+      "2. For the marinade and dressing, whisk together peanut butter, lime zest, 4 tbsp (60 mL) lime juice, oil and sriracha in a measuring cup or bowl. Add more sriracha to taste, if desired.",
+      "3. Pour 1/2 cup (125 mL) marinade over beef strips, add garlic and toss to coat. Cover and refrigerate beef for at least 30 minutes or up to 1 day.",
+      "4. To make dressing, whisk remaining 2 tbsp (30 mL) lime juice, rice vinegar and honey into remaining peanut butter mixture. Season with salt to taste. Cover and set aside at room temperature (if marinating beef for longer than 2 hours, cover dressing and refrigerate, then warm to room temperature before serving).",
+      "5. Soak skewers in shallow dish filled with water for 30 to 40 minutes before using.",
+      "6. Combine kale and cabbage with reserved dressing in a large bowl, tossing to coat. Season to taste with salt. Set aside.",
+      "7. Preheat barbecue grill to medium-high.",
+      "8. Thread marinated beef onto soaked skewers, weaving onto skewers like a flat ribbon. Discard any excess marinade. Season beef with salt.",
+      "9. Grill beef skewers, turning twice, for about 5 minutes or until beef is browned and medium-rare or cooked to desired doneness. Transfer to a plate.",
+      "10. Toss kale mixture again to coat. Divide among serving plates or bowls. Scatter carrots and snow peas over top. Arrange beef skewers on salads. Break Salty Peanut Sesame Snaps into shards and garnish salads."
+   ],
+   "recipeCategory": "Entree",
+   "url": "https://www.lcbo.com/en/recipe/peanut-lime-beef-satay-on-kale-cabbage-salad/F202203010"
+}

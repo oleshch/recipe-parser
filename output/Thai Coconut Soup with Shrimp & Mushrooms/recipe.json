@@ -1,0 +1,28 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Thai Coconut Soup with Shrimp & Mushrooms",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2022/holiday/F202206038.jpg.thumb.1024.1024.jpg",
+   "description": "This rich, fragrant soup takes Thailand\u2019s famous tom kha gai and swaps chicken for shrimp. Found at most Asian supermarkets, galangal, lemon grass and lime leaves give this soup its distinctive taste and aroma. They are left in for flavour and presentation, but since they\u2019re too fibrous to eat, let your diners know beforehand.",
+   "recipeIngredient": [
+      "2-inch (5-cm) piece galangal",
+      "2 stalks lemon grass",
+      "4 makrut lime leaves",
+      "2 cans (each 398 mL) full-fat coconut milk",
+      "1 cup (250 mL) water",
+      "1 Thai chili, halved",
+      "2 tbsp (30 mL) fish sauce",
+      "2 tsp (10 mL) granulated sugar",
+      "1 cup (250 mL) thinly sliced cremini mushrooms",
+      "12 large (31 / 35 count) shrimp, peeled, deveined",
+      "2 tbsp (30 mL) fresh lime juice",
+      "1/4 cup (60 mL) packed cilantro leaves, plus more for serving",
+      "Lime wedges for serving"
+   ],
+   "recipeInstructions": [
+      "Peel and slice galangal. Trim and discard top two thirds of lemon grass. Peel and discard tough outer layers. (Trimmings can also be saved for making stock in the future.) Gently bash lemon grass with the back of a chef\u2019s knife. Halve lengthwise and cut into 1-inch (2.5-cm) pieces. Tear lime leaves in half.",
+      "In a large pot, heat coconut milk, water, galangal, lemon grass, lime leaves and chili over medium-high heat. Bring to a boil, then reduce to a gentle simmer. Cook 4 minutes. Add fish sauce and sugar to pot. Simmer 1 minute. Add mushrooms. Cook until tender, 3 to 4 minutes. Add shrimp.\u00a0 Simmer until pink and cooked through, 2 to 3 minutes. Remove from heat. Add lime juice and cilantro. Garnish with more cilantro leaves and serve with lime wedges."
+   ],
+   "recipeCategory": "Soup",
+   "url": "https://www.lcbo.com/en/recipe/thai-coconut-soup-with-shrimp-mushrooms/F202206038"
+}

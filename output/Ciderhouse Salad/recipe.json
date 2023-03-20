@@ -1,0 +1,15 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Ciderhouse Salad",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2021/autumn/F202105004.jpg.thumb.1024.1024.jpg",
+   "description": "This hearty salad was created by chef Kai Chan, director of culinary at FAB Restaurant Concepts, which manages the Brickworks Ciderhouse restaurant. \u201cWe wanted a salad that could be refreshing for Toronto summers but hold its own during our cold winters,\u201d he says. To toast the pecans, bake on a small tray in a 350\u00b0F (177\u00b0C) oven until browned, 5 to 7 minutes.",
+   "recipeIngredient": [
+      "POPPYSEED DRESSING \u00ad1/2cup (125 mL) white vinegar 1/3 cup (80 mL) sugar 1 tsp (5 mL) finely grated onion or shallot 1 tsp (5 mL) dry mustard powder 1 tsp (5 mL) salt 1 cup (250 mL) extra virgin olive oil 1 tbsp (15 mL) poppy seeds  3/4 cup (175 mL) red quinoa 6 oz (170 g) bacon, chopped 1 small lemon, halved crosswise, visible seeds poked out 4 1/2 cups (1.125 L) thinly sliced Tuscan kale (thick stems removed) Salt and freshly ground pepper to taste 2/3 cup (150 mL) diced cooked beets 1/2 cup (125 mL) diced Royal Gala apple 1/3 cup (80 mL) dried cranberries 1/4 cup (60 mL) pecan halves, toasted 1/2 cup (125 mL) crumbled goat cheese"
+   ],
+   "recipeInstructions": [
+      "For the dressing, combine vinegar, sugar, onion, dry mustard and salt in a blender. Blend for 20 seconds. With the motor on high, add oil in a slow, steady stream to form an emulsified dressing. Transfer to a 2-cup (500-mL) Mason jar. Stir in poppy seeds. (Dressing will keep, covered and refrigerated, for 2 weeks.) Shake well before using.  2. For the salad, bring a medium pot of salted water to a boil. Add quinoa and cook until tender, 12 to 15 minutes. Drain and spread out on a baking pan to cool.  3. Place bacon in a medium nonstick frying pan over medium heat. Cook, stirring occasionally, until well-browned and crisp, 10 to 12 minutes. Transfer with a slotted spoon to a plate lined with a paper towel. Drain off most of the fat and save it for another use. Return pan to burner and raise heat to medium-high. Cook lemon halves, cut-sides down, until nicely caramelized, 2 to 3 minutes. Transfer to a small plate to cool.  4. In a large mixing bowl, combine kale, quinoa and enough poppy seed dressing to nicely coat. Season with salt and pepper. Mix and transfer to a serving platter. Top with beets, apple, cranberries, bacon, pecans and goat cheese. Garnish with charred lemon halves."
+   ],
+   "recipeCategory": "Salad",
+   "url": "https://www.lcbo.com/en/recipe/ciderhouse-salad/F202105004"
+}

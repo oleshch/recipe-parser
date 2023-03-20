@@ -1,0 +1,29 @@
+{
+   "@context": "http://schema.org",
+   "@type": "Recipe",
+   "name": "Grilled Lamb Chops & Tomatoes with Cashew Chimichurri",
+   "image": "https://aem.lcbo.com/content/dam/lcbo/Recipes/food-drink/2020/early-summer/F202003020.jpg.thumb.1024.1024.jpg",
+   "description": "With grilling season upon us, lamb chops are easy to prepare, quick to grill and perfect to serve large groups for special gatherings. A topping of summer herb and cashew chimichurri gives them a fresh and flavourful nutty taste. Serve with grilled tomatoes for a smoky and naturally sweet accompaniment.\u00a0",
+   "recipeIngredient": [
+      "CASHEW CHIMICHURRI",
+      "\u00bc cup (60 mL) cashews",
+      "\u00bd cup (125 mL) Italian flat-leaf parsley, finely chopped",
+      "\u00bc cup (60 mL) cilantro with stems, finely chopped",
+      "1 tbsp (15 mL) fresh oregano, finely chopped 2 tbsp (30 mL) fresh mint, finely chopped",
+      "4 garlic cloves, minced",
+      "1 tbsp (15 mL) red chilies, seeds removed and finely chopped",
+      "\u00be cup (175 mL) extra virgin olive oil 3 tbsp (45 mL) red wine vinegar",
+      "1 tsp (5 mL) salt",
+      "30 Ontario lamb chops, at room temperature Salt and freshly ground pepper",
+      "10 Campari tomatoes, halved"
+   ],
+   "recipeInstructions": [
+      "To make the chimichurri, place cashews in a blender and pulse until finely chopped. Place chopped cashews in a medium glass bowl and add remaining ingredients. Mix well and set aside.",
+      "2\u00a0Preheat grill to high heat and grease grill to avoid",
+      "3\u00a0Lightly season lamb chops on each side with salt and freshly ground pepper. Place the lamb chops on the grill and cook for 2 minutes per side for medium-rare, or cook longer for desired Remove from grill, cover with aluminum foil and let rest while you grill tomatoes.",
+      "Keeping heat to high, clean and grease grill. Grill tomatoes, cut-side down, for 2 minutes.",
+      "Arrange lamb chops and tomatoes on platter. Drizzle lamb chops with chimichurri, reserving \u00bd cup (125 mL) to serve alongside."
+   ],
+   "recipeCategory": "Entree",
+   "url": "https://www.lcbo.com/en/recipe/grilled-lamb-chops-tomatoes-with-cashew-chimichurri/F202003020"
+}
